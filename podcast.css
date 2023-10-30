@@ -1,0 +1,57 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+  font-family: 'Josefin Sans', sans-serif;
+  box-sizing: border-box;
+}
+.heading{
+  font-size: 1.3rem;
+  padding-bottom: 5px;
+  padding-left: 5.5rem;
+}
+.dateCreated{
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: rgba(73, 72, 72, 0.527);
+  padding-bottom: 23px;
+  padding-left: 5.5rem;
+}
+.Project{
+  padding-bottom: 10px;
+  padding-left: 5.5rem;
+}
+.project{
+  display: inline;
+  font-size: 1rem;
+}
+.value{
+  display: inline;
+  color: rgba(73, 72, 72, 0.527);
+  font-weight: 500;
+  font-size: 1rem;
+}
+.proJect{
+  padding-bottom: 10px;
+  padding-top: 25px;
+  padding-left: 2.8rem;
+}
+.projects{
+  display: inline;
+  font-size: 1rem;
+  padding-left: 6px;
+}
+.content{
+  line-height: 1.5rem;
+  font-weight: 300;
+  word-spacing: 2px;
+  padding-left: 5.5rem;
+}
+.podcast-videoplayer{
+  padding-left: 5.5rem;
+}
+video{
+  border-radius: 10px;
+  width: 430px;
+  height: 200px;
+}
